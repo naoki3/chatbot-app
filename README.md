@@ -7,7 +7,6 @@ This repository is an AI chatbot application created using **Python and Streamli
 ## Overview
 
 - Built a Web UI using Streamlit and implemented an AI chatbot that leverages the OpenAI API.
-- This is a sample project created for learning and validation purposes.
 
 ---
 
